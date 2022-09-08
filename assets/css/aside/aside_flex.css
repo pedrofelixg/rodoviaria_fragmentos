@@ -1,0 +1,48 @@
+.contato{
+    display: flex;
+    justify-content:space-between;
+    align-content: center;
+}
+
+.contato a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.whatsapp{
+    background-color: #25D366;
+    border-radius: 5rem;
+    padding: 0.35rem;
+}
+
+.email{
+    background-color: #FF0000;
+    border-radius: 5rem;
+    padding: 0.35rem;
+}
+
+.twitter{
+    background-color: #1DA1F2;
+    border-radius: 5rem;
+    padding: 0.35rem;
+}
+
+.whatsapp, .email, .twitter{
+    flex-grow: 1;
+    margin: 0 0.25rem 0 0.25rem;
+}
+
+@media screen and (max-width: 800px) {
+    .contato{
+        flex-direction: column;
+        height: 210px;
+    }
+
+    .email, .twitter, .whatsapp{
+        padding: 0.15rem;
+        margin-left: 0;
+        flex-grow: 0;
+    }
+}

@@ -1,0 +1,11 @@
+.cabecalho__perfil{
+    width: 10rem;
+    padding-top: 1rem;
+}
+
+@media screen and (max-width: 800px) {
+    .cabecalho__perfil{
+        width: 8.15rem;
+        padding: 0.512rem;
+    }
+}

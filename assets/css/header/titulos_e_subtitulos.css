@@ -1,0 +1,16 @@
+.cabecalho__title{
+    text-transform: uppercase;
+    font-size: 3.8rem;
+    margin-top: 0.815rem;
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 800px) {
+    .cabecalho__title{
+        font-size: 2.7rem;
+    }
+
+    .cabecalho__subtitle{
+        font-size: 0.85rem;
+    }
+}

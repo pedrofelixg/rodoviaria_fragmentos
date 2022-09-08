@@ -1,0 +1,12 @@
+.github a, .instagram a, .linkedin a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.github{
+    margin-bottom: 0;
+}
+
+.instagram{
+    margin-top: 0;
+}
