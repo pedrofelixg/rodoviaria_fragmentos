@@ -10,3 +10,15 @@
     padding: 0.85rem;
     border-radius: 5rem;
 }
+
+.sectionTitle{
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 800px) {
+    .sectionTitle{
+        font-size: 1.6rem;
+    }
+}
