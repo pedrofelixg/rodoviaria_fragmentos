@@ -17,6 +17,10 @@
     margin-bottom: 1rem;
 }
 
+.portfolio__behance p{
+    background-color: #e5d657;
+}
+
 @media screen and (max-width: 800px) {
     .sectionTitle{
         font-size: 1.6rem;
