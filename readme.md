@@ -2,6 +2,15 @@
 
 # **Rodoviária Fragmentos**
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Rodoviária Fragmentos**
+| :label: Tecnologias | html; css (Atom CSS e Metodologia B.E.M)
+| :rocket: URL         | https://rodoviariafragmentos.vercel.app/
+| :fire: Desafio     | Desafio de Aprendizagem
+
+## **Detalhes do Projeto**
+
 O objetivo desse repositório foi criar um projeto de clone do LinkTree, uma das principais ferramentas de criadores de conteúdo em redes sociais para agrupamento de links com o objetivo de redirecionar os usuários para locais específicos. <br>
 Nesse caso abstrai as principais ferramentas do LinkTree, que é o cabeçalho da página contendo:<br>
 - Ícone de perfil da rede social, no caso o Instagram.
@@ -15,4 +24,4 @@ Apenas uma linha de script foi usada baseada na documentação do [Font Awensome
 Foi utilizado no projeto a fonte Sora, disponível no site de [fontes do Google](https://fonts.google.com/specimen/Sora?query=Sora).
 
 ## **Prévia do Site**
-![prévia do site](/assets/img/site_preview.png)
+![prévia do site](/assets/img/site_preview.png#vitrinedev)
