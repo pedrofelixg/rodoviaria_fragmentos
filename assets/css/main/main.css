@@ -21,12 +21,8 @@
     background-color: #e5d657;
 }
 
-.usp p{
-    background-color: #ff0054;
-}
-
-.usp a{
-    color: #fff;
+.usp{
+    display: none;
 }
 
 @media screen and (max-width: 800px) {
