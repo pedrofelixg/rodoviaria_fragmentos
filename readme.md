@@ -9,6 +9,14 @@
 | :rocket: URL         | https://rodoviariafragmentos.vercel.app/
 | :fire: Desafio     | Desafio de Aprendizagem
 
+## **Contatos e Links interessantes**
+ <div>
+   <a href="mailto:pedro.viniciusacm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://wa.me/5581992874343" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="https://www.behance.net/pedrofelixg" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+   <a href="www.linkedin.com/in/pedrofelixgonçalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ </div>
+
 ## **Detalhes do Projeto**
 
 O objetivo desse repositório foi criar um projeto de clone do LinkTree, uma das principais ferramentas de criadores de conteúdo em redes sociais para agrupamento de links com o objetivo de redirecionar os usuários para locais específicos. <br>
@@ -25,3 +33,6 @@ Foi utilizado no projeto a fonte Sora, disponível no site de [fontes do Google]
 
 ## **Prévia do Site**
 ![prévia do site](/assets/img/site_preview.png#vitrinedev)
+
+**Visão Mobile**<br>
+![prévia da página mobile](/assets/img/gif-20230118-220736.gif#vitrinedev)
