@@ -6,3 +6,8 @@ body{
     width: 75%;
     margin: auto;
 }
+
+body.light-mode{
+    background-color: #fbfbfb;
+    color: #1c1c1c;
+}

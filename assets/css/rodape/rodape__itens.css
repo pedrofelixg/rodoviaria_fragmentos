@@ -3,6 +3,10 @@
     color: #fff;
 }
 
+.light-mode a{
+    color: #1c1c1c;
+}
+
 .github{
     margin-bottom: 0;
 }

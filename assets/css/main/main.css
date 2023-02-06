@@ -30,6 +30,35 @@
     color: #fff;
 }
 
+.button{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 5%;
+    top: 5%;
+    background-color: #fbfbfb;
+    border-radius: 1.5rem;
+    border-style: none;
+    text-align: center;
+    font-size: 30px;
+    z-index: 1000;
+}
+
+.light-mode .button{
+    background-color: #1c1c1c;
+    color: #fbfbfb;
+}
+
+@media (min-width: 360px) {
+    .button{
+        width: 2.5rem;
+        height: 2.5rem;
+        font-size: 1.25rem;
+        border-radius: 0.85rem;
+    }
+}
+
 @media screen and (max-width: 800px) {
     .sectionTitle{
         font-size: 1.6rem;
