@@ -32,7 +32,7 @@ Apenas uma linha de script foi usada baseada na documentação do [Font Awensome
 Foi utilizado no projeto a fonte Sora, disponível no site de [fontes do Google](https://fonts.google.com/specimen/Sora?query=Sora).
 
 ## **Prévia do Site**
-![prévia do site](/assets/img/site_preview.png#vitrinedev)
+![prévia do site](https://github.com/pedrofelixg/rodoviaria_fragmentos/raw/main/assets/img/site_preview.png#vitrinedev)
 
 **Visão Mobile**<br>
 ![prévia da página mobile](/assets/img/gif-20230118-220736.gif#vitrinedev)
