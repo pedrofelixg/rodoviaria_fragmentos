@@ -10,8 +10,8 @@ function changeClass() {
 }
 
 function changeText() {
-    const lightMode = "LM";
-    const darkMode = "DM";
+    const lightMode = `<i class="fa-solid fa-sun"></i>`;
+    const darkMode = `<i class="fa-solid fa-moon"></i>`;
 
     if(body.classList.contains(lightModeClass)) {
         button.innerHTML = darkMode;
